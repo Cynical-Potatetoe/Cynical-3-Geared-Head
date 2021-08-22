@@ -10,7 +10,16 @@ The Cynical^3 3D-printable 2-axis geared tripod head designed by Aaron Tan. Gith
 ### IMPORTANT: This project requires the use some non-printed hardware (Refer to BOM).
 
 ## CHANGELOG
-(15/08/2021) v0.1 Initial public release (Alpha release)
+(15/08/2021)  Repository created.
+
+              - README created.
+
+(22/08/2021)  v0.1 Initial public release (Alpha release)
+              
+              - STL files added.
+              - F360 and Parasolid files pending.
+              - Assembly instructions pending.
+              - BOM list pending.
 
 
 ## BOM links
